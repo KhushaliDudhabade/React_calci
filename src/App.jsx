@@ -49,6 +49,8 @@ function App() {
     setResult(res);
   };
   return (
+
+    
     <div className="App">
       <div className="container">
         <h1 style={{ color: 'rgb(74, 5, 144)'}}>Simple React Calculator</h1>
